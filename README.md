@@ -2,8 +2,8 @@
 Tiny, no fuss CLI notepad written in C
 
 ## What is this?
-It's a lightweight app designed to run on very, very constrainted environments, using just above 66KiB of RAM, and to
-not be as distractive as possible
+It's a lightweight notepad app designed to run on very, very constrainted environments, using just above 66KiB of RAM, and about 18KiB of storage space (about 20KB afaik)
+and to be as difficult to distract as possible
 
 ## Commands:
 All commands follow the same pattern: </[COMMAND]>, with [COMMAND]
